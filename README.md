@@ -1,3 +1,14 @@
+## Redirection QR Code
+
+Cette branche `backlink` fournit une redirection Cloudflare Pages vers
+`https://www.youtube.com/`.
+
+Pour changer la destination, remplacer l’URL dans `_redirects` et `index.html`,
+puis pousser la modification sur cette branche.
+
+Configuration Cloudflare Pages : branche `backlink`, aucune commande de build,
+répertoire de sortie `/`.
+
 ## Hi there 👋
 
 <!--
