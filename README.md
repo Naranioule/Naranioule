@@ -1,7 +1,7 @@
 ## Redirection QR Code
 
 Cette branche `backlink` fournit une redirection Cloudflare Pages vers
-`https://www.youtube.com/`.
+`https://www.youtube.com/@Effroyablejournaliste`.
 
 Pour changer la destination, remplacer l’URL dans `_redirects` et `index.html`,
 puis pousser la modification sur cette branche.
